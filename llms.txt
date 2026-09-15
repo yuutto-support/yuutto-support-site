@@ -1,21 +1,21 @@
 # Yuutto Help
 
-> Yuutto / 优途加速器使用帮助站，提供分平台下载说明、产品身份信息和常见故障排查。
+> Yuutto / 优途加速器使用帮助站。
 
-## Product identity
-- Product name: Yuutto
-- Seller on Apple App Store: CAMELS IT
+## Product
+- Name: Yuutto
+- Chinese name in common use: 优途加速器
+- Apple App Store seller: CAMELS IT
 - Official website: https://yuutto.com/
-- Additional current brand entry: https://youtujsq9.net/
 - Apple App Store: https://apps.apple.com/us/app/yuutto/id1577009657
 
-## Current Apple information
-- Version: 6.0.6 (updated 2026-08-31)
+## Current Apple compatibility
+- Version: 6.0.6
 - iPhone: iOS 13 or later
 - iPad: iPadOS 13 or later
 - Mac: macOS 10.13 or later
 
-## Main pages
+## Help pages
 - /download/
 - /guide/
 - /faq/
