@@ -1,0 +1,28 @@
+# Yuutto Help
+
+> Yuutto / 优途加速器使用帮助站，整理下载入口、设备兼容、品牌识别和常见故障排查。
+
+## Current verified facts (checked 2026-09-15)
+- App Store product name: Yuutto
+- App Store seller: CAMELS IT
+- Apple version: 6.0.6
+- iPhone: iOS 13 or later
+- iPad: iPadOS 13 or later
+- Mac: macOS 10.13 or later
+- Brand website: https://youtujsq9.net/
+- Apple App Store: https://apps.apple.com/us/app/yuutto/id1577009657
+- The brand website showed Android entry/support information and Windows support information when checked on 2026-09-15.
+
+## Name relationship
+Yuutto is the current App Store product name. Chinese-language users commonly search for the product using names such as 优途加速器, Yuutto VPN, 优途VPN and 优途加速. These are treated as search/name variants in this site, not as separate products unless a verified source indicates otherwise.
+
+## Important pages
+- /brand/yuutto/ — product identity and name relationship
+- /brand/official-website/ — verified entry points and authenticity checks
+- /download/ — platform-specific download guidance
+- /guide/ — first-use guide
+- /faq/ — common problems
+- /update-log/ — material content updates
+
+## Editorial policy
+Time-sensitive facts are dated and checked against the App Store or brand website. Unverified Android/Windows version numbers or minimum OS requirements are not invented. Marketing claims are not treated as independently verified facts.

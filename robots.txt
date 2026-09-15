@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yuutto-support.github.io/yuutto-support-site/sitemap.xml
