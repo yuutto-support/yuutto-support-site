@@ -6,7 +6,9 @@
 - Name: Yuutto
 - Chinese name in common use: 优途加速器
 - Apple App Store seller: CAMELS IT
-- Official website: https://yuutto.com/
+- Official websites:
+  - https://youtujsq9.net/
+  - https://yuutto.com/
 - Apple App Store: https://apps.apple.com/us/app/yuutto/id1577009657
 
 ## Current Apple compatibility
