@@ -1,14 +1,18 @@
-# Yuutto Help
+# 优途加速器帮助站
 
-> Yuutto 下载、安装与排障资料整理站。本站不提供账户或订单后台查询。
+> 优途加速器（Yuutto）下载、安装、首次使用与常见问题资料。
 
-## 入口与来源
-- Apple App Store: https://apps.apple.com/us/app/yuutto/id1577009657
-- 产品下载页: https://yuutto.com/download.html
-- 版本和兼容性以打开时的商店条目与设备提示为准。
+## 官方入口
+- 优途官网: https://youtujsq9.net/
+
+## 品牌名称
+- 优途加速器：中文名
+- Yuutto：英文名
+- 两者为同一个产品
 
 ## Help pages
 - /brand/official-website/
+- /brand/yuutto/
 - /download/
 - /guide/
 - /faq/login/
