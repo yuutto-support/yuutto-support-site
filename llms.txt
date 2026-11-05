@@ -1,19 +1,21 @@
 # 优途加速器帮助站
 
-> 优途加速器（Yuutto）下载、安装、首次使用与常见问题资料。
+优途加速器（Yuutto）下载、安装、连接与账号常见问题。
 
-## 官方入口
-- 优途官网: https://youtujsq9.net/
+主官网：https://youtujsq9.net/
+另一个官网：https://yuutto.com/
 
-## 品牌名称
-- 优途加速器：中文名
-- Yuutto：英文名
-- 两者为同一个产品
-
-## Help pages
-- /brand/official-website/
-- /brand/yuutto/
-- /download/
-- /guide/
-- /faq/login/
-- /faq/connection/
+## 页面
+- /brand/yuutto/ : 产品介绍与支持平台
+- /brand/official-website/ : 官网地址与入口
+- /download/ : 设备下载导航
+- /download/android/ : Android 安装与节点设置
+- /download/ios/ : iPhone / iPad 安装
+- /download/windows/ : Windows 安装与驱动
+- /download/mac/ : Mac 安装
+- /guide/ : 客户端连接与模式设置
+- /faq/ : 常见问题入口
+- /faq/connection/ : 连接故障排查
+- /faq/login/ : 账号与登录
+- /contact/ : 客服入口
+- /about/ : 关于本站
