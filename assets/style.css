@@ -28,3 +28,14 @@
 .navlinks .nav-cta{background:#191634;color:#fff}
 .navlinks .nav-cta:hover{background:#35306b}
 @media(max-width:560px){.brandmark .brand-logo{width:35px;height:35px;border-radius:10px}.brandmark{gap:9px}}
+
+/* Problem discovery: purposeful symptom categories */
+.problem-section{background:#f8faff}.problem-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.problem-grid .card{min-height:205px}.problem-icon{display:inline-flex;align-items:center;justify-content:center;width:39px;height:39px;border-radius:12px;background:linear-gradient(140deg,#dff8ff,#e9e3ff);color:#4942ab;font-weight:850;font-size:13px;margin-bottom:17px}.problem-grid .card h3{max-width:26ch}.content .breadcrumbs{flex-wrap:wrap}.content .breadcrumbs a{white-space:nowrap}@media(max-width:800px){.problem-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:560px){.problem-grid{grid-template-columns:1fr}.problem-grid .card{min-height:auto}.problem-icon{margin-bottom:12px}}
+
+.platform-quicklinks{display:flex;align-items:center;flex-wrap:wrap;gap:.6rem 1rem;margin:1.3rem 0 0;color:#526079;font-size:.95rem}.platform-quicklinks a{color:#5148c9;font-weight:650;text-decoration:underline;text-underline-offset:3px}.platform-quicklinks a:hover{color:#312b83}
+
+.platform-shortcuts{margin:22px 0 0;color:var(--muted,#526176);font-size:.95rem;line-height:1.75}.platform-shortcuts a{font-weight:650;text-underline-offset:3px}
+
+/* Platform directory: same alignment as the other home sections */
+.platform-quicklinks strong{color:#263254;font-size:.94rem;margin-right:.15rem}
+@media(max-width:800px){.navlinks{scrollbar-width:thin;scrollbar-color:#c6ceeb transparent}.navlinks::-webkit-scrollbar{display:block;height:3px}.navlinks::-webkit-scrollbar-thumb{background:#c6ceeb;border-radius:10px}}

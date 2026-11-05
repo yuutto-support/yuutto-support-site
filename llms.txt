@@ -19,3 +19,12 @@
 - /faq/login/ : 账号与登录
 - /contact/ : 客服入口
 - /about/ : 关于本站
+
+- /faq/app-access/ : 只有部分网站或 App 无法访问
+- /faq/video-playback/ : 视频缓冲与播放异常
+- /faq/platforms/chatgpt/ : ChatGPT 网络错误、加载与账号问题
+- /faq/platforms/youtube/ : YouTube 播放错误、字幕和声音问题
+- /faq/platforms/telegram/ : Telegram 登录验证码、通知与消息问题
+
+- [Discord 语音、通知与使用问题](https://yuutto-support.github.io/yuutto-support-site/faq/platforms/discord/)
+- [Netflix 播放、字幕与下载问题](https://yuutto-support.github.io/yuutto-support-site/faq/platforms/netflix/)
